@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/tools/asn1c" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tools/asn1c_oai" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tools/oai/oai-cn5g-common-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tools/oai/openair-cn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tools/oai/openairinterface5g" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tools/srsRAN_4G" vcs="Git" />
+  </component>
+</project>
